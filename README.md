@@ -3,7 +3,7 @@ This repository presents an analytical project focused on predicting customer ch
 
 The project goes beyond standard binary classification, aiming to predict when a customer is likely to churn, and providing clear explanations for individual predictions.
 
-🌟 Project Goals
+🌟 **Project Goals**
 
 The primary objectives of this project are:
 
@@ -17,7 +17,7 @@ The primary objectives of this project are:
 
 5. Evaluate & Compare: Assess the performance and interpretability of both the statistical (Survival) and Machine Learning (Random Forest) approaches.
 
-🔬 Methodology & Modeling
+🔬 **Methodology & Modeling**
 
 1. Survival Analysis Models (Time-to-Event)
 - This approach models the expected duration until the churn event, accounting for censoring (customers who haven't churned yet).
