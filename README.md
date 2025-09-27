@@ -44,7 +44,7 @@ The primary objectives of this project are:
 
 A critical output of this project is the visualization of the predicted churn risk, often presented for immediate business interpretation.
 
-The file churn_gauge.png provides an example of how the model's prediction
+The file `churn_gauge.png` provides an example of how the model's prediction
 
 <p align="center">
   <img src="churn_gauge.png" alt="Churn Risk Gauge Visualization" width="400"/>
